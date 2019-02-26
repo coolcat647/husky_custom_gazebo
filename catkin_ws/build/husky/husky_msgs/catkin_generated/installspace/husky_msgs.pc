@@ -1,8 +1,0 @@
-prefix=/home/samliu/Documents/husky_custom_gazebo/catkin_ws/install
-
-Name: husky_msgs
-Description: Description of husky_msgs
-Version: 0.3.1
-Cflags: -I/home/samliu/Documents/husky_custom_gazebo/catkin_ws/install/include
-Libs: -L/home/samliu/Documents/husky_custom_gazebo/catkin_ws/install/lib 
-Requires: std_msgs message_runtime
